@@ -122,49 +122,31 @@ I believe great products start with a deep understanding of what users truly nee
 
 ### 🎓 Education
 
-- **[삼성] 청년 SW·AI 아카데미 (SSAFY)** · 대한상공회의소 `2025.07 – 2026.06`
-  - 기본·응용·심화 단계 알고리즘 문제 분석 및 해결 능력 함양
-  - FE·BE·DB 기반 웹 서비스 설계 및 Django 서버 구축부터 DB 설계까지 전 과정 구현
-  - HTML/CSS·JavaScript·Vue.js로 해상도에 최적화된 프론트엔드 화면 디자인·구현
-  - 생성형 AI API와 파인튜닝·경량화 등 AI 기술을 학습해 AI 시스템 설계·프로젝트 접목
-- **반응형 UI/UX 웹디자인 & 웹퍼블리셔·웹콘텐츠 개발자 양성과정 (24-3)** · 그린컴퓨터아카데미 `2024.04 – 2024.08`
-  - 사용자경험·니즈 분석 기반 정보·UI·화면 설계 능력 함양
-  - 서비스·콘텐츠를 사용 목적에 맞게 최적화하여 디자인·구현
-  - 다양한 해상도에 대응하는 반응형 웹 제작(디자인·코딩)
-- **데이터 사이언스 2022 코칭스터디 (팀 리더)** · 네이버 부스트코스 `2022.10 – 2022.11`
-  - Python·Pandas·NumPy 기반 데이터 분석 환경 구성 및 전처리·정제
-  - 공공데이터 지리 정보 시각화 및 탐색적 데이터 분석(EDA)
-  - 기술통계·가설 검정 등 통계 기반 의사결정 능력 함양
-- **모두를 위한 파이썬 (PY4E 2022) 코칭스터디** · 네이버 부스트코스 `2022.07 – 2022.08`
-  - Python 기초 문법 및 핵심 자료구조 활용
-  - 함수 정의·모듈화를 통한 구조적 프로그래밍
-  - 파일 입출력 기반 데이터 처리 및 응용 프로그램 구현
+|        기간         | 내용                                        |
+| :-----------------: | :------------------------------------------ |
+| `2025.07 – 2026.06` | 삼성 청년 SW·AI 아카데미(SSAFY)             |
+| `2024.04 – 2024.08` | 반응형 UI/UX 웹디자인 & 웹퍼블리셔 양성과정 |
+| `2022.10 – 2022.11` | 데이터 사이언스 2022 코칭스터디 **팀 리더** |
+| `2022.07 – 2022.08` | 모두를 위한 파이썬(PY4E 2022) 코칭스터디    |
+| `2020.03 – 2024.08` | 중앙대학교 영어영문학과 졸업                |
 
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 ### 🧩 Algorithm
 
 <a href="https://solved.ac/profile/wjd1278">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd1278" width="320"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd1278" width="300"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+<hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
 
 ### 📜 Certificates & Language
 
-- **정보처리기사** (2024.09)
-- **TOEIC Speaking IH** (2026.03)
-- **TOEIC 885** (2025.05)
-
-</td>
-</tr>
-</table>
+| 구분 | 항목                                        | 발급             | 취득일  |
+| :--: | :------------------------------------------ | :--------------- | :-----: |
+| 자격 | **정보처리기사**                            | 한국산업인력공단 | 2024.09 |
+| 어학 | **TOEIC Speaking · Intermediate High (IH)** | 한국토익위원회   | 2026.03 |
+| 어학 | **TOEIC · 885**                             | 한국토익위원회   | 2025.05 |
 
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
 
