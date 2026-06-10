@@ -142,17 +142,19 @@ I believe great products start with a deep understanding of what users truly nee
 
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧩 Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd1278)](https://solved.ac/profile/wjd1278)
+<a href="https://solved.ac/profile/wjd1278">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd1278" width="320"/>
+</a>
 
 </td>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 📜 Certificates & Language
 
