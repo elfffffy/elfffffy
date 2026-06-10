@@ -142,27 +142,26 @@ I believe great products start with a deep understanding of what users truly nee
 
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
 
-<table width="100%">
-  <tr>
-    <td width="42%" valign="top">
+<table>
+<tr>
+<td width="45%" valign="top">
 
 ### 🧩 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd1278)](https://solved.ac/profile/wjd1278)
 
 </td>
-<td width="58%" valign="top">
+
+<td width="55%" valign="top">
 
 ### 📜 Certificates & Language
 
-| 구분 | 항목 | 취득일 |
-|:--:|:--|:--:|
-| 자격 | **정보처리기사** | 2024.09 |
-| 어학 | **TOEIC Speaking · IH** | 2026.03 |
-| 어학 | **TOEIC · 885** | 2025.05 |
+- **정보처리기사** (2024.09)
+- **TOEIC Speaking IH** (2026.03)
+- **TOEIC 885** (2025.05)
 
 </td>
-  </tr>
+</tr>
 </table>
 
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
