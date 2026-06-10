@@ -142,7 +142,7 @@ I believe great products start with a deep understanding of what users truly nee
 
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
 
-<table>
+<table width="100%">
   <tr>
     <td width="42%" valign="top">
 
@@ -155,15 +155,16 @@ I believe great products start with a deep understanding of what users truly nee
 
 ### 📜 Certificates & Language
 
-| 구분 | 항목                    | 취득일  |
-| :--: | :---------------------- | :-----: |
-| 자격 | **정보처리기사**        | 2024.09 |
+| 구분 | 항목 | 취득일 |
+|:--:|:--|:--:|
+| 자격 | **정보처리기사** | 2024.09 |
 | 어학 | **TOEIC Speaking · IH** | 2026.03 |
-| 어학 | **TOEIC · 885**         | 2025.05 |
+| 어학 | **TOEIC · 885** | 2025.05 |
 
 </td>
   </tr>
 </table>
+
 <hr style="height:2px; border:none; background:linear-gradient(to right, #f7d3dc, #f9a8c4);" />
 
 ### 📬 Contact Me
